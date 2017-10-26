@@ -1,5 +1,5 @@
 <?php
-
+include ('echo_bot.php');
 /**
  * Copyright 2016 LINE Corporation
  *
